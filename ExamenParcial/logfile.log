@@ -1,0 +1,71 @@
+[2024-05-21 19:46:27] [ INFO ] [OdontologoDaoH2Test:26] Database setup complete.
+[2024-05-21 19:46:28] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:46:28] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:46:30] [ ERROR] [OdontologoDaoH2:79] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:51:42] [ INFO ] [OdontologoDaoH2Test:26] Database setup complete.
+[2024-05-21 19:51:42] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:51:43] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:51:44] [ ERROR] [OdontologoDaoH2:79] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:51:52] [ INFO ] [OdontologoEnMemoria:18] Odontólogo registrado: Odontologo{id=1, numeroMatricula='54321', nombre='Alice', apellido='Johnson'}
+[2024-05-21 19:51:52] [ INFO ] [OdontologoEnMemoria:18] Odontólogo registrado: Odontologo{id=2, numeroMatricula='98765', nombre='Bob', apellido='Brown'}
+[2024-05-21 19:51:52] [ INFO ] [OdontologoEnMemoria:24] Lista de odontólogos: [Odontologo{id=1, numeroMatricula='54321', nombre='Alice', apellido='Johnson'}, Odontologo{id=2, numeroMatricula='98765', nombre='Bob', apellido='Brown'}]
+[2024-05-21 19:51:52] [ INFO ] [OdontologoEnMemoriaTest:27] Test de registrar y listar odontólogos en memoria completado.
+[2024-05-21 19:52:30] [ INFO ] [OdontologoDaoH2Test:26] Database setup complete.
+[2024-05-21 19:52:30] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:52:31] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:52:32] [ ERROR] [OdontologoDaoH2:79] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:54:53] [ INFO ] [OdontologoDaoH2Test:26] Database setup complete.
+[2024-05-21 19:54:54] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:54:54] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:54:55] [ ERROR] [OdontologoDaoH2:79] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:56:53] [ INFO ] [OdontologoDaoH2Test:26] Database setup complete.
+[2024-05-21 19:56:53] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:56:54] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 19:56:55] [ ERROR] [OdontologoDaoH2:79] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:00:46] [ INFO ] [OdontologoDaoH2Test:26] Database setup complete.
+[2024-05-21 20:00:46] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:00:47] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:00:48] [ ERROR] [OdontologoDaoH2:79] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:04:24] [ INFO ] [OdontologoDaoH2Test:26] Database setup complete.
+[2024-05-21 20:04:24] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:04:25] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:04:26] [ ERROR] [OdontologoDaoH2:79] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:16:47] [ INFO ] [OdontologoDaoH2Test:26] Database setup complete.
+[2024-05-21 20:16:47] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:16:48] [ ERROR] [OdontologoDaoH2:46] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:16:49] [ ERROR] [OdontologoDaoH2:79] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:22:47] [ ERROR] [OdontologoDaoH2Test:31] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:28:51] [ ERROR] [OdontologoDaoH2Test:34] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:37:44] [ ERROR] [OdontologoDaoH2Test:34] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-21 20:40:17] [ INFO ] [OdontologoDaoH2:77] Lista de odontólogos: [Odontologo{id=1, numeroMatricula='12345', nombre='John', apellido='Doe'}, Odontologo{id=2, numeroMatricula='67890', nombre='Jane', apellido='Smith'}]
+[2024-05-21 20:40:54] [ INFO ] [OdontologoDaoH2:77] Lista de odontólogos: [Odontologo{id=1, numeroMatricula='12345', nombre='John', apellido='Doe'}, Odontologo{id=2, numeroMatricula='67890', nombre='Jane', apellido='Smith'}]
+[2024-05-21 20:44:10] [ INFO ] [OdontologoDaoH2:77] Lista de odontólogos: [Odontologo{id=1, numeroMatricula='12345', nombre='John', apellido='Doe'}, Odontologo{id=2, numeroMatricula='67890', nombre='Jane', apellido='Smith'}]
+[2024-05-21 20:45:28] [ INFO ] [OdontologoDaoH2:77] Lista de odontólogos: [Odontologo{id=1, numeroMatricula='12345', nombre='John', apellido='Doe'}, Odontologo{id=2, numeroMatricula='67890', nombre='Jane', apellido='Smith'}]
+[2024-05-21 20:47:39] [ INFO ] [OdontologoDaoH2:77] Lista de odontólogos: [Odontologo{id=1, numeroMatricula='12345', nombre='John', apellido='Doe'}, Odontologo{id=2, numeroMatricula='67890', nombre='Jane', apellido='Smith'}]
